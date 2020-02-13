@@ -1,4 +1,3 @@
-my_list = [1, 2, 3, 4, 5]
+import os
 
-for item in my_list:
-    print(item)
+from flask import Flask
